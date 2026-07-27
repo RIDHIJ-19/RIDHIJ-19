@@ -1,33 +1,88 @@
-<h1 align="center">Hi 👋, I'm Ridhi Jaggi</h1>
-<h3 align="center">🤖 An AI/ML enthusiast who loves solving real-world problems with data!</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhij-19&label=Profile%20views&color=0e75b6&style=flat" alt="ridhij-19" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1B1044,100:6C63FF&height=220&section=header&text=Ridhi%20Jaggi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=exploring%20the%20universe%2C%20one%20model%20at%20a%20time&descAlignY=55&descSize=18" width="100%" alt="header" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhij-19" alt="ridhij-19" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Turning+coffee+into+code+%E2%98%95%EF%B8%8F+and+code+into+cosmos+%F0%9F%8C%8C;Mapping+exoplanet+habitability+%F0%9F%AA%90;Training+models+by+day%2C+stargazing+by+night+%F0%9F%94%AD;Currently+orbiting+Transformers+%26+LLMs+%F0%9F%9A%80&font=Fira+Code&center=true&width=560&height=45&color=6C63FF&vCenter=true&size=20&pause=1800" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Transformers & LLMs 🧠 Efficient AI Deployment 🚀 (because inference speed matters!) Model Interpretability 🔍 (making AI less of a black box)**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-1u0m.onrender.com/](https://portfolio-1u0m.onrender.com/)
-
-- 💬 Ask me about **PyTorch 🔥 | Deep Learning 📊 | Computer Vision 👀**
-
-- ⚡ Fun fact **My models take hours to train, but debugging takes days—yet, I wouldn’t trade this for anything! 😆💻 Also, if AI ever reaches Ultron levels of intelligence… I swear it wasn’t me! 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ridhi-jaggi-657705259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ridhi-jaggi-657705259" height="30" width="40" /></a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=ridhij-19&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<a href="https://www.linkedin.com/in/ridhi-jaggi-657705259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://portfolio-1u0m.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=BG3YWOgAAAAJ&hl=en&authuser=2" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1ewaq0Os8udq_OJhaZkCyWYtYrw-GuBY2/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<!-- TODO: add real Codechef / LeetCode profile links -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhij-19&show_icons=true&locale=en&layout=compact" alt="ridhij-19" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhij-19&show_icons=true&locale=en" alt="ridhij-19" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhij-19&" alt="ridhij-19" /></p>
+> 🛰️ Software engineer, AI/ML researcher, and part-time astronomer — currently studying exoplanet habitability when I'm not shipping backend systems or arguing with a loss curve.
+
+<br/>
+
+### 📄 Publications
+
+**Evaluating Sentiment Classification Performance of LLMs Using Frankenstein as a Benchmark Text**
+IEEE AIEI 2026 · Scopus Indexed · [Paper](https://ieeexplore.ieee.org/abstract/document/11497145/)
+
+**Multimodal Data Fusion: An Ensemble Learning Approach for Osteoporosis Detection**
+ICRACS 2026 · Scopus Indexed · AIP/IET Proceedings (publication underway)
+
+<br/>
+
+### 🛰️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<br/>
+
+### 🌌 Orbit Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ridhij-19&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=0B1026" alt="ridhij-19 stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhij-19&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0B1026" alt="ridhij-19 top langs" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhij-19&theme=midnight-purple&hide_border=true&background=0B1026" alt="ridhij-19 streak" />
+</p>
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhij-19&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="ridhij-19 trophies" /></a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ridhi-jaggi-657705259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ridhi.jaggi@example.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- TODO: replace placeholder email above with your real one -->
+<a href="https://portfolio-1u0m.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1B1044,100:0B1026&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
