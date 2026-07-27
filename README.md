@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DBB,50:A855F7,100:6C63FF&height=220&section=header&text=Ridhi%20Jaggi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=exploring%20the%20universe%2C%20one%20model%20at%20a%20time&descAlignY=55&descSize=18" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Turning+coffee+into+code+%E2%98%95%EF%B8%8F+and+code+into+cosmos+%F0%9F%8C%8C;Mapping+exoplanet+habitability+%F0%9F%AA%90;Training+models+by+day%2C+stargazing+by+night+%F0%9F%94%AD;Currently+orbiting+Transformers+%26+LLMs+%F0%9F%9A%80&font=Fira+Code&center=true&width=560&height=45&color=C77DBB&vCenter=true&size=20&pause=1800" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Turning+coffee+into+code+and+code+into+cosmos+%F0%9F%8C%8C;Mapping+exoplanet+habitability+%F0%9F%AA%90;Training+models+by+day%2C+stargazing+by+night+%F0%9F%94%AD;Currently+orbiting+Transformers+%26+LLMs+%F0%9F%9A%80&font=Fira+Code&center=true&width=700&height=45&color=C77DBB&avCenter=true&size=20&pause=1800" alt="Typing SVG" />
+
+<img src="./space-banner.svg" width="100%" alt="space banner" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=ridhij-19&label=Profile%20views&color=C77DBB&style=for-the-badge" alt="profile views" />
