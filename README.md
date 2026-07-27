@@ -56,16 +56,16 @@ ICRACS 2026 · Scopus Indexed · AIP/IET Proceedings (publication underway)
 ### 🌌 Orbit Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ridhij-19&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=0B1026" alt="ridhij-19 stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhij-19&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0B1026" alt="ridhij-19 top langs" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ridhij-19&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="ridhij-19 stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhij-19&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="ridhij-19 top langs" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhij-19&theme=midnight-purple&hide_border=true&background=0B1026" alt="ridhij-19 streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhij-19&theme=midnight-purple&hide_border=true" alt="ridhij-19 streak" />
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhij-19&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="ridhij-19 trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhij-19&theme=onedark&no-frame=true&column=7" alt="ridhij-19 trophies" /></a>
 </p>
 
 <picture>
@@ -79,8 +79,6 @@ ICRACS 2026 · Scopus Indexed · AIP/IET Proceedings (publication underway)
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ridhi-jaggi-657705259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ridhi.jaggi@example.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- TODO: replace placeholder email above with your real one -->
 <a href="https://portfolio-1u0m.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:1B1044,100:0B1026&height=120&section=footer" width="100%" alt="footer" />
